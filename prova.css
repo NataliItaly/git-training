@@ -1,3 +1,8 @@
 p {
   background-color: yellow;
 }
+
+.banner {
+  height: 200px;
+  background-color: yellowgreen;
+}
